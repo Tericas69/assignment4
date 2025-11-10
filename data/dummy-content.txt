@@ -1,0 +1,5 @@
+assignment4/
+├─ Containerfile
+├─ myinfo.html
+└─ data/
+   └─ dummy-content.txt
