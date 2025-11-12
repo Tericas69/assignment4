@@ -1,5 +1,2 @@
-assignment4/
-├─ Containerfile
-├─ myinfo.html
-└─ data/
-   └─ dummy-content.txt
+
+   This is dummy content for assignment4.
